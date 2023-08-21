@@ -1,0 +1,312 @@
+Start Recording...
+Saving...
+Threshold energy = 23033.098592
+Start-Index=18320
+End-Index=29200
+Start Recording...
+Saving...
+Threshold energy = 30483.934604
+Start-Index=6080
+End-Index=31680
+Start Recording...
+Saving...
+Threshold energy = 26684.819251
+Start-Index=11920
+End-Index=22480
+Start Recording...
+Saving...
+Threshold energy = 37360.242627
+Start-Index=14480
+End-Index=28720
+Start Recording...
+Saving...
+Threshold energy = 37268.620239
+Start-Index=10640
+End-Index=37760
+Start Recording...
+Saving...
+Threshold energy = 47525.327912
+Start-Index=12560
+End-Index=28640
+Start Recording...
+Saving...
+Threshold energy = 36997.313379
+Start-Index=13200
+End-Index=31200
+Start Recording...
+Saving...
+Threshold energy = 35988.926859
+Start-Index=800
+End-Index=33600
+Start Recording...
+Saving...
+Threshold energy = 37610.661444
+Start-Index=7200
+End-Index=32240
+Start Recording...
+Saving...
+Threshold energy = 21071.425954
+Start-Index=10800
+End-Index=30880
+Start Recording...
+Saving...
+Threshold energy = 15127.503755
+Start-Index=2320
+End-Index=10160
+Start-Index=10320
+End-Index=26640
+Start Recording...
+Saving...
+Threshold energy = 20357.068735
+Start-Index=10720
+End-Index=23040
+Start Recording...
+Saving...
+Threshold energy = 34293.025531
+Start-Index=13120
+End-Index=20720
+Start-Index=28480
+End-Index=42560
+Start Recording...
+Saving...
+Threshold energy = 20745.942458
+Start-Index=10560
+End-Index=20240
+Start-Index=40960
+End-Index=49520
+Start Recording...
+Saving...
+Threshold energy = 21120.910176
+Start-Index=10160
+End-Index=19440
+Start Recording...
+Saving...
+Threshold energy = 41436.193848
+Start-Index=4880
+End-Index=11520
+Start-Index=12400
+End-Index=27920
+Start Recording...
+Saving...
+Threshold energy = 30830.189486
+Start-Index=9840
+End-Index=22800
+Start Recording...
+Saving...
+Threshold energy = 30733.326301
+Start-Index=11520
+End-Index=27040
+Start Recording...
+Saving...
+Threshold energy = 44225.565418
+Start-Index=10640
+End-Index=23600
+Start Recording...
+Saving...
+Threshold energy = 42772.527585
+Start-Index=10400
+End-Index=23040
+Start Recording...
+Saving...
+Threshold energy = 44918.530435
+Start-Index=10400
+End-Index=22640
+Start Recording...
+Saving...
+Threshold energy = 46410.308977
+Start-Index=10960
+End-Index=23840
+Start Recording...
+Saving...
+Threshold energy = 40653.026769
+Start-Index=10400
+End-Index=22960
+Start-Index=32880
+End-Index=38480
+Start Recording...
+Saving...
+Threshold energy = 32116.095186
+Start-Index=10960
+End-Index=22880
+
+Iteration-1 of LBG algorithm with updated codebook size = 2 and distortion = 176.739747
+- Iteration-1 of K-means algorithm, distortion = 137.443655
+- Iteration-2 of K-means algorithm, distortion = 128.964207
+- Iteration-3 of K-means algorithm, distortion = 128.270224
+- Iteration-4 of K-means algorithm, distortion = 128.189145
+- Iteration-5 of K-means algorithm, distortion = 128.178327
+- Iteration-6 of K-means algorithm, distortion = 128.176959
+- Iteration-7 of K-means algorithm, distortion = 128.175818
+
+Iteration-2 of LBG algorithm with updated codebook size = 4 and distortion = 128.367361
+- Iteration-1 of K-means algorithm, distortion = 111.463239
+- Iteration-2 of K-means algorithm, distortion = 107.241556
+- Iteration-3 of K-means algorithm, distortion = 106.674545
+- Iteration-4 of K-means algorithm, distortion = 106.368582
+- Iteration-5 of K-means algorithm, distortion = 106.112289
+- Iteration-6 of K-means algorithm, distortion = 105.894564
+- Iteration-7 of K-means algorithm, distortion = 105.717864
+- Iteration-8 of K-means algorithm, distortion = 105.568463
+- Iteration-9 of K-means algorithm, distortion = 105.432175
+- Iteration-10 of K-means algorithm, distortion = 105.332913
+- Iteration-11 of K-means algorithm, distortion = 105.266583
+- Iteration-12 of K-means algorithm, distortion = 105.205375
+- Iteration-13 of K-means algorithm, distortion = 105.157131
+- Iteration-14 of K-means algorithm, distortion = 105.119595
+- Iteration-15 of K-means algorithm, distortion = 105.098161
+- Iteration-16 of K-means algorithm, distortion = 105.083605
+- Iteration-17 of K-means algorithm, distortion = 105.075316
+- Iteration-18 of K-means algorithm, distortion = 105.064209
+- Iteration-19 of K-means algorithm, distortion = 105.050615
+- Iteration-20 of K-means algorithm, distortion = 105.043156
+- Iteration-21 of K-means algorithm, distortion = 105.034981
+- Iteration-22 of K-means algorithm, distortion = 105.031067
+- Iteration-23 of K-means algorithm, distortion = 105.029616
+- Iteration-24 of K-means algorithm, distortion = 105.028662
+- Iteration-25 of K-means algorithm, distortion = 105.028339
+- Iteration-26 of K-means algorithm, distortion = 105.027478
+- Iteration-27 of K-means algorithm, distortion = 105.026399
+- Iteration-28 of K-means algorithm, distortion = 105.025238
+- Iteration-29 of K-means algorithm, distortion = 105.024181
+- Iteration-30 of K-means algorithm, distortion = 105.023906
+
+Iteration-3 of LBG algorithm with updated codebook size = 8 and distortion = 105.236360
+- Iteration-1 of K-means algorithm, distortion = 95.564189
+- Iteration-2 of K-means algorithm, distortion = 89.363318
+- Iteration-3 of K-means algorithm, distortion = 87.300229
+- Iteration-4 of K-means algorithm, distortion = 86.256838
+- Iteration-5 of K-means algorithm, distortion = 85.485710
+- Iteration-6 of K-means algorithm, distortion = 85.005178
+- Iteration-7 of K-means algorithm, distortion = 84.543469
+- Iteration-8 of K-means algorithm, distortion = 84.083738
+- Iteration-9 of K-means algorithm, distortion = 83.779452
+- Iteration-10 of K-means algorithm, distortion = 83.642230
+- Iteration-11 of K-means algorithm, distortion = 83.559732
+- Iteration-12 of K-means algorithm, distortion = 83.498083
+- Iteration-13 of K-means algorithm, distortion = 83.464298
+- Iteration-14 of K-means algorithm, distortion = 83.438192
+- Iteration-15 of K-means algorithm, distortion = 83.422465
+- Iteration-16 of K-means algorithm, distortion = 83.411724
+- Iteration-17 of K-means algorithm, distortion = 83.402746
+- Iteration-18 of K-means algorithm, distortion = 83.398557
+- Iteration-19 of K-means algorithm, distortion = 83.397134
+- Iteration-20 of K-means algorithm, distortion = 83.396411
+- Iteration-21 of K-means algorithm, distortion = 83.396206
+- Iteration-22 of K-means algorithm, distortion = 83.395565
+- Iteration-23 of K-means algorithm, distortion = 83.394841
+- Iteration-24 of K-means algorithm, distortion = 83.394248
+- Iteration-25 of K-means algorithm, distortion = 83.393953
+
+Iteration-4 of LBG algorithm with updated codebook size = 16 and distortion = 83.625899
+- Iteration-1 of K-means algorithm, distortion = 75.587140
+- Iteration-2 of K-means algorithm, distortion = 71.513233
+- Iteration-3 of K-means algorithm, distortion = 69.700145
+- Iteration-4 of K-means algorithm, distortion = 68.938572
+- Iteration-5 of K-means algorithm, distortion = 68.459759
+- Iteration-6 of K-means algorithm, distortion = 68.107294
+- Iteration-7 of K-means algorithm, distortion = 67.828124
+- Iteration-8 of K-means algorithm, distortion = 67.569979
+- Iteration-9 of K-means algorithm, distortion = 67.385252
+- Iteration-10 of K-means algorithm, distortion = 67.274541
+- Iteration-11 of K-means algorithm, distortion = 67.165481
+- Iteration-12 of K-means algorithm, distortion = 67.064795
+- Iteration-13 of K-means algorithm, distortion = 66.992005
+- Iteration-14 of K-means algorithm, distortion = 66.934637
+- Iteration-15 of K-means algorithm, distortion = 66.885152
+- Iteration-16 of K-means algorithm, distortion = 66.830252
+- Iteration-17 of K-means algorithm, distortion = 66.775790
+- Iteration-18 of K-means algorithm, distortion = 66.726443
+- Iteration-19 of K-means algorithm, distortion = 66.684570
+- Iteration-20 of K-means algorithm, distortion = 66.650259
+- Iteration-21 of K-means algorithm, distortion = 66.620014
+- Iteration-22 of K-means algorithm, distortion = 66.591286
+- Iteration-23 of K-means algorithm, distortion = 66.574420
+- Iteration-24 of K-means algorithm, distortion = 66.553769
+- Iteration-25 of K-means algorithm, distortion = 66.531000
+- Iteration-26 of K-means algorithm, distortion = 66.514350
+- Iteration-27 of K-means algorithm, distortion = 66.501881
+- Iteration-28 of K-means algorithm, distortion = 66.486757
+- Iteration-29 of K-means algorithm, distortion = 66.475628
+- Iteration-30 of K-means algorithm, distortion = 66.465978
+- Iteration-31 of K-means algorithm, distortion = 66.455318
+- Iteration-32 of K-means algorithm, distortion = 66.449040
+- Iteration-33 of K-means algorithm, distortion = 66.440303
+- Iteration-34 of K-means algorithm, distortion = 66.432151
+- Iteration-35 of K-means algorithm, distortion = 66.423244
+- Iteration-36 of K-means algorithm, distortion = 66.419970
+- Iteration-37 of K-means algorithm, distortion = 66.418018
+- Iteration-38 of K-means algorithm, distortion = 66.417261
+- Iteration-39 of K-means algorithm, distortion = 66.416769
+- Iteration-40 of K-means algorithm, distortion = 66.415991
+- Iteration-41 of K-means algorithm, distortion = 66.414396
+- Iteration-42 of K-means algorithm, distortion = 66.411529
+- Iteration-43 of K-means algorithm, distortion = 66.405334
+- Iteration-44 of K-means algorithm, distortion = 66.403934
+- Iteration-45 of K-means algorithm, distortion = 66.402061
+- Iteration-46 of K-means algorithm, distortion = 66.398259
+- Iteration-47 of K-means algorithm, distortion = 66.393862
+- Iteration-48 of K-means algorithm, distortion = 66.390762
+- Iteration-49 of K-means algorithm, distortion = 66.388719
+- Iteration-50 of K-means algorithm, distortion = 66.387101
+- Iteration-51 of K-means algorithm, distortion = 66.385406
+- Iteration-52 of K-means algorithm, distortion = 66.384766
+- Iteration-53 of K-means algorithm, distortion = 66.384359
+- Iteration-54 of K-means algorithm, distortion = 66.384104
+- Iteration-55 of K-means algorithm, distortion = 66.383572
+- Iteration-56 of K-means algorithm, distortion = 66.383063
+- Iteration-57 of K-means algorithm, distortion = 66.382740
+
+Iteration-5 of LBG algorithm with updated codebook size = 32 and distortion = 66.629996
+- Iteration-1 of K-means algorithm, distortion = 60.076110
+- Iteration-2 of K-means algorithm, distortion = 57.297561
+- Iteration-3 of K-means algorithm, distortion = 56.245714
+- Iteration-4 of K-means algorithm, distortion = 55.697813
+- Iteration-5 of K-means algorithm, distortion = 55.236433
+- Iteration-6 of K-means algorithm, distortion = 54.750160
+- Iteration-7 of K-means algorithm, distortion = 54.348978
+- Iteration-8 of K-means algorithm, distortion = 54.009640
+- Iteration-9 of K-means algorithm, distortion = 53.752106
+- Iteration-10 of K-means algorithm, distortion = 53.581148
+- Iteration-11 of K-means algorithm, distortion = 53.448441
+- Iteration-12 of K-means algorithm, distortion = 53.353448
+- Iteration-13 of K-means algorithm, distortion = 53.278340
+- Iteration-14 of K-means algorithm, distortion = 53.220758
+- Iteration-15 of K-means algorithm, distortion = 53.186394
+- Iteration-16 of K-means algorithm, distortion = 53.160262
+- Iteration-17 of K-means algorithm, distortion = 53.139352
+- Iteration-18 of K-means algorithm, distortion = 53.120817
+- Iteration-19 of K-means algorithm, distortion = 53.103331
+- Iteration-20 of K-means algorithm, distortion = 53.090245
+- Iteration-21 of K-means algorithm, distortion = 53.080265
+- Iteration-22 of K-means algorithm, distortion = 53.066568
+- Iteration-23 of K-means algorithm, distortion = 53.042270
+- Iteration-24 of K-means algorithm, distortion = 53.032757
+- Iteration-25 of K-means algorithm, distortion = 53.022380
+- Iteration-26 of K-means algorithm, distortion = 53.014707
+- Iteration-27 of K-means algorithm, distortion = 53.005646
+- Iteration-28 of K-means algorithm, distortion = 52.997046
+- Iteration-29 of K-means algorithm, distortion = 52.988356
+- Iteration-30 of K-means algorithm, distortion = 52.980706
+- Iteration-31 of K-means algorithm, distortion = 52.973447
+- Iteration-32 of K-means algorithm, distortion = 52.965049
+- Iteration-33 of K-means algorithm, distortion = 52.958908
+- Iteration-34 of K-means algorithm, distortion = 52.950721
+- Iteration-35 of K-means algorithm, distortion = 52.941326
+- Iteration-36 of K-means algorithm, distortion = 52.935493
+- Iteration-37 of K-means algorithm, distortion = 52.932348
+- Iteration-38 of K-means algorithm, distortion = 52.930310
+- Iteration-39 of K-means algorithm, distortion = 52.925623
+- Iteration-40 of K-means algorithm, distortion = 52.922262
+- Iteration-41 of K-means algorithm, distortion = 52.918691
+- Iteration-42 of K-means algorithm, distortion = 52.916076
+- Iteration-43 of K-means algorithm, distortion = 52.912800
+- Iteration-44 of K-means algorithm, distortion = 52.909624
+- Iteration-45 of K-means algorithm, distortion = 52.908067
+- Iteration-46 of K-means algorithm, distortion = 52.905758
+- Iteration-47 of K-means algorithm, distortion = 52.903454
+- Iteration-48 of K-means algorithm, distortion = 52.901907
+- Iteration-49 of K-means algorithm, distortion = 52.899494
+- Iteration-50 of K-means algorithm, distortion = 52.895968
+- Iteration-51 of K-means algorithm, distortion = 52.893356
+- Iteration-52 of K-means algorithm, distortion = 52.892805
+- Iteration-53 of K-means algorithm, distortion = 52.892271

@@ -1,0 +1,136 @@
+Start Recording...
+Saving...
+Threshold energy = 191674.326065
+Start-Index=12000
+End-Index=26880
+Start-Index=31920
+End-Index=44640
+Number of words are 2
+word file path is normalized_word_1.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 0.000000e+000
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is open
+word file path is normalized_word_2.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 9.621769e-293
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is movies
+Start Recording...
+Saving...
+Threshold energy = 267699.716210
+Start-Index=19760
+End-Index=32720
+Start-Index=40240
+End-Index=52000
+Number of words are 2
+word file path is normalized_word_1.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 0.000000e+000
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is open
+word file path is normalized_word_2.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 0.000000e+000
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is open
+Start Recording...
+Saving...
+Threshold energy = 269452.560561
+Start-Index=19840
+End-Index=33600
+Start-Index=40960
+End-Index=52960
+Number of words are 2
+word file path is normalized_word_1.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 0.000000e+000
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is open
+word file path is normalized_word_2.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 0.000000e+000
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is open
+Start Recording...
+Saving...
+Threshold energy = 857764.562012
+Start-Index=26320
+End-Index=40880
+Start-Index=40880
+End-Index=50400
+Start-Index=50560
+End-Index=86320
+Start-Index=86320
+End-Index=101120
+Number of words are 4
+word file path is normalized_word_1.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 0.000000e+000
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is open
+word file path is normalized_word_2.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 0.000000e+000
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is open
+word file path is normalized_word_3.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 0.000000e+000
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is open
+word file path is normalized_word_4.txt
+Probability with close is 0.000000e+000
+Probability with down is 0.000000e+000
+Probability with movies is 0.000000e+000
+Probability with open is 0.000000e+000
+Probability with up is 0.000000e+000
+Probability with vlc is 0.000000e+000
+Probability with volume is 0.000000e+000
+Probability with window is 0.000000e+000
+Predicted word is open

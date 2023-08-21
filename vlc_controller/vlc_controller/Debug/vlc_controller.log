@@ -1,0 +1,27 @@
+﻿Build started 24-01-2023 09:27:44.
+     1>Project "F:\Study Material\Speech Processing\Project\final code with UI\vlc_controller\vlc_controller\vlc_controller.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\vlc_controller.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         vlc_controller.vcxproj -> F:\Study Material\Speech Processing\Project\final code with UI\vlc_controller\Debug\vlc_controller.exe
+       MetaGen:
+       Skipping target "MetaGen" because all output files are up-to-date with respect to the input files.
+       FinalizeBuildStatus:
+         Deleting file "Debug\vlc_controller.unsuccessfulbuild".
+         Touching "Debug\vlc_controller.lastbuildstate".
+     1>Done Building Project "F:\Study Material\Speech Processing\Project\final code with UI\vlc_controller\vlc_controller\vlc_controller.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10
